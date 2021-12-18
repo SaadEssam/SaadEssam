@@ -15,13 +15,22 @@ I love to learn and contribute in any and every possible way.</h3>
 
 <h2 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skills and Tools:</h2>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;">
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
+
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" style="max-width: 100%;">
 <img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" style="max-width: 100%;">
-<img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;">
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
 <img align="left" alt="javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
+<img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="max-width: 100%;">
+<img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="max-width: 100%;">
+<img align="left" alt="xd" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="max-width: 100%;">
+<img align="left" alt="illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" style="max-width: 100%;">
+<img align="left" alt="premierepro" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" style="max-width: 100%;">
+
 
 
 
