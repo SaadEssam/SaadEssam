@@ -24,6 +24,8 @@ I love to learn and contribute in any and every possible way.</h3>
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;">
 <img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="mysql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+<img align="left" alt="sqlite" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="max-width: 100%;">
 <img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" style="max-width: 100%;">
 <img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" style="max-width: 100%;">
 <img align="left" alt="heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%;">
