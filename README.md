@@ -10,8 +10,9 @@
 
   <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="30%"/>
 
-<h3 align="left">I'm a Software Engineer  | Django & passionate about technology, communities, and everything in-between. 
-I love to learn and contribute in any and every possible way.</h3>
+<h3 align="left">I'm a Software Engineer | Django & passionate about technology, communities, and everything in-between. 
+I love to learn and contribute in any and every possible way. 
+  Ready to work closely with both teams and customers to identify most efficient and beneficial solutions for process improvement.</h3>
 
 <h2 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skills and Tools:</h2>
 
