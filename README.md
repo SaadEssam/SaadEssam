@@ -38,7 +38,7 @@ I love to learn and contribute in any and every possible way. </h3>
 <img align="left" alt="xd" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="max-width: 100%;">
 <img align="left" alt="illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" style="max-width: 100%;">
 <img align="left" alt="premierepro" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" style="max-width: 100%;">
-
+<img align="left" alt="blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" style="max-width: 100%;">
 
 
 
