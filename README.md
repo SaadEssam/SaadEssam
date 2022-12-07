@@ -36,7 +36,7 @@ I love to learn and contribute in any and every possible way. </h3>
 <img align="left" alt="bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width: 100%;">
 <img align="left" alt="bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="max-width: 100%;">
 <img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" style="max-width: 100%;">
-<img align="left" alt="photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="max-width: 100%;">
+<img align="left" alt="photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="max-width: 100%; margin-top:6px;">
 <img align="left" alt="xd" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="max-width: 100%;">
 <img align="left" alt="illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" style="max-width: 100%;">
 <img align="left" alt="premierepro" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" style="max-width: 100%;">
